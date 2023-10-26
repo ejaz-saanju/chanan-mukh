@@ -1,4 +1,4 @@
-# chanan-mukh
+# Saanjo Chanan Mukh
 
 Font Name: Saanjo Chanan Mukh
 Reserved Font Name: Punjabi
